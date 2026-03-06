@@ -8,7 +8,7 @@
 
 ---
 
-## The Problem
+## 🔍 The Problem
 
 The Controller Area Network (CAN) protocol powers communication between electronic control units (ECUs) inside almost every modern vehicle. It was designed in the 1980s for reliability and speed — not security. There is no authentication, no encryption, and no message verification built in.
 
