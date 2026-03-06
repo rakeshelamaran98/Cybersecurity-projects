@@ -10,6 +10,8 @@ This project involves the end-to-end design, configuration, and security hardeni
 
 The work spans three core areas: network design and configuration, zone-based security, and advanced security features including VPN and AAA authentication.
 
+📖 For overview, tools, build phases, and verification approach — see [methodology.md](docs/methodology.md)
+
 ---
 
 ## ⚙️ What It Does
