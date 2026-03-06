@@ -30,7 +30,7 @@ This project simulates five real-world CAN bus attack types, generates a labelle
 
 The hybrid approach achieved **98% binary accuracy**, the **lowest false positive rate** of all three methods, and a **detection latency of 2.1 milliseconds** — within the real-time constraints of an active vehicle network.
 
-For simulation setup and tools used, see docs/methodology.md
+For simulation setup and tools used, see [methodology.md] (docs/methodology.md) 
 
 ---
 
