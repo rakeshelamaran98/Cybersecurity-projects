@@ -7,6 +7,13 @@
 # Summary
 
 
+### 🚗 [Hybrid IDS for CAN Bus Networks](https://github.com/rakeshelamaran98/hybrid-ids-can-bus)
+
+Simulated five CAN bus attack types and built a hybrid intrusion detection system combining rule-based logic with machine learning. Achieved 98% binary accuracy with a 2.1ms detection latency across 20.6 million labelled frames.
+
+🛠️ Tools: Python, Scikit-learn, ICSim, SocketCAN, Caring Caribou
+
+
 ### 🖥️ [Secure Network Design](https://github.com/rakeshelamaran98/Cybersecurity-projects/tree/main/Secure-Network-Design)
 
 Designed and secured a corporate network for a 150-employee company across five departments, a server room, a conference room, and a remote branch. Covers VLAN segmentation, OSPF routing, ZPF firewalling, ACLs, site-to-site VPN, and TACACS+ AAA — all verified in Cisco Packet Tracer.
