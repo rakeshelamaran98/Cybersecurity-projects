@@ -107,9 +107,9 @@ Standards referenced: ISO/SAE 21434, UNECE R155, UNECE R156, IEEE 1609.2, AUTOSA
 
 ## 👤 Author
 
-**Rakesh Elamaran**
-MSc Cyber Security Engineering – University of Warwick
-Security Engineer | Licensed Penetration Tester | NCSC Certified Graduate
+- **Rakesh Elamaran**
+- MSc Cyber Security Engineering – University of Warwick
+- Security Engineer | Licensed Penetration Tester | NCSC Certified Graduate
 
 🌐 [rakeshelamaran.com](https://rakeshelamaran.com)
 
