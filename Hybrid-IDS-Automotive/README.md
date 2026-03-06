@@ -44,20 +44,6 @@ The hybrid approach achieved **98% binary accuracy**, the **lowest false positiv
 
 ---
 
-## 🛠️ Tools and Environment
-
-| Tool | Purpose |
-|---|---|
-| ICSim | Instrument cluster simulator — virtual CAN bus environment |
-| SocketCAN / vcan0 | Linux virtual CAN interface |
-| can-utils (candump, cansend, cangen) | CAN traffic generation and capture |
-| Caring Caribou | Automotive security research tool |
-| Python (scikit-learn, pandas, numpy) | Feature extraction, ML training, evaluation |
-
-> **Note:** All attacks were simulated in a controlled virtual environment. No real vehicles were used or harmed.
-
----
-
 ## 📊 Key Results
 
 ### Binary Classification (Normal vs Attack)
